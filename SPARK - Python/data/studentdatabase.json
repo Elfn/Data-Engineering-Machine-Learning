@@ -1,0 +1,250 @@
+{
+
+	"data": [
+
+		{
+			"firstname": "John",
+			"lastname": "Doe",
+			"birthdate": "12-01-1992",
+			"regionOfOrigin": {"name":"Rhône-Alpes","latitude": 45.1695797,"longitude": 5.4502821},
+			"institutionOfOrigin": "SUPINFO_LYON",
+			"mobility": [],
+			"attendance": ["Sport Event", "Forums", "Meetings", "Student Fair"],
+			"graduated": true,
+			"studies": "FINISHED",
+			"credits": 305,
+			"curriculum": [{
+				"experiences": [{
+					"business": "Worldline",
+					"position": "Data engineer",
+					"startDate": "01-01-2016",
+					"EndDate": "PRESENT",
+					"contractType": "Professional_Contract"
+				}]
+			}, {
+				"skills": ["QlikView", "HTML", "CSS", "Big Data", "Python"]
+			}]
+
+		},
+		{
+			"firstname": "Scott",
+			"lastname": "Tiger",
+			"birthdate": "26-04-1988",
+			"regionOfOrigin": {"name":"Alpes-Maritimes","latitude": 43.9466791,"longitude": 7.179026},
+			"institutionOfOrigin": "SUPINFO_NICE",
+			"mobility": [],
+			"attendance": ["Tech Conference", "Forums", "Training"],
+			"graduated": false,
+			"studies": "PENDING",
+			"credits": 280,
+			"curriculum": [{
+				"experiences": [{
+					"business": "Atos",
+					"position": "JS Developer",
+					"startDate": "01-07-2019",
+					"EndDate": "30-09-2019",
+					"contractType": "Internship"
+				}, {
+					"business": "Cognizant",
+					"position": "Java Developer",
+					"startDate": "01-01-2020",
+					"EndDate": "30-03-2020",
+					"contractType": "Internship"
+				}, {
+					"business": "Amadeus",
+					"position": "Front-end Developer",
+					"startDate": "01-04-2021",
+					"EndDate": "01-09-2021",
+					"contractType": "Internship"
+				}]
+			}, {
+				"skills": ["Java", "HTML", "CSS", "Javascript", "NodeJs"]
+			}]
+
+		},
+		{
+			"firstname": "Mylene",
+			"lastname": "Elsinky",
+			"birthdate": "20-09-1993",
+			"regionOfOrigin": {"name":"Île-de-France","latitude": 48.8499198,"longitude": 2.6370411},
+			"institutionOfOrigin": "SUPINFO_PARIS",
+			"mobility": ["LYON", "PARIS"],
+			"attendance": ["Tech Conference", "Meetings", "Training", "Bowling", "Gaming Tournament", "Chest Tournament"],
+			"graduated": false,
+			"studies": "FINISHED",
+			"credits": 278,
+			"curriculum": [{
+				"experiences": [{
+					"business": "Beasy",
+					"position": "Data engineer",
+					"startDate": "14-07-2019",
+					"EndDate": "20-10-2019",
+					"contractType": "Internship"
+				}, {
+					"business": "Amaris",
+					"position": "Data engineer",
+					"startDate": "13-01-2020",
+					"EndDate": "10-04-2020",
+					"contractType": "Internship"
+				}, {
+					"business": "Akur8",
+					"position": "Data engineer",
+					"startDate": "04-04-2021",
+					"EndDate": "05-09-2021",
+					"contractType": "Internship"
+				}]
+			}, {
+				"skills": ["QlikView", "Java", "Ruby"]
+			}]
+
+		},
+		{
+			"firstname": "Boris",
+			"lastname": "Baldy",
+			"birthdate": "24-10-1989",
+			"regionOfOrigin": {"name":"Normandie","latitude": 48.879870,"longitude": 0.171253},
+			"institutionOfOrigin": "SUPINFO_CAEN",
+			"mobility": [],
+			"attendance": ["Forums", "Student Fair"],
+			"graduated": true,
+			"studies": "FINISHED",
+			"credits": 310,
+			"curriculum": [{
+				"experiences": [ {
+					"business": "Oracle",
+					"position": "Data engineer",
+					"startDate": "01-01-2020",
+					"EndDate": "PRESENT",
+					"contractType": "Professional_Contract"
+				}]
+			}, {
+				"skills": [".NET", "HTML", "CSS", "TypeScript", "C#"]
+			}]
+
+		},
+		{
+			"firstname": "Natalie",
+			"lastname": "Koeh",
+			"birthdate": "30-10-1991",
+			"regionOfOrigin": {"name":"Île-de-France","latitude": 48.8499198,"longitude": 2.6370411},
+			"institutionOfOrigin": "SUPINFO_PARIS",
+			"mobility": [],
+			"attendance": ["Student Fair", "Tech Conference", "Forums", "Meetings", "Bowling", "Gaming Tournament", "Chest Tournament"],
+			"graduated": true,
+			"studies": "FINISHED",
+			"credits": 300,
+			"curriculum": [{
+				"experiences": [{
+					"business": "Extia",
+					"position": "Operations system engineer",
+					"startDate": "11-08-2021",
+					"EndDate": "PRESENT",
+					"contractType": "Professional_Contract"
+				}]
+			}, {
+				"skills": ["Linux", "Azure", "Hadoop", "Big Data"]
+			}]
+
+		},
+		{
+			"firstname": "Julien",
+			"lastname": "Balade",
+			"birthdate": "14-04-1990",
+			"regionOfOrigin": {"name":"Île-de-France","latitude": 48.8499198,"longitude": 2.6370411},
+			"institutionOfOrigin": "SUPINFO_PARIS",
+			"mobility": [],
+			"attendance": ["Tech Conference", "Forums", "Meetings", "Bowling", "Gaming Tournament", "Chest Tournament"],
+			"graduated": true,
+			"studies": "FINISHED",
+			"credits": 322,
+			"curriculum": [{
+				"experiences": [ {
+					"business": "Amadeus",
+					"position": "Data engineer",
+					"startDate": "15-04-2021",
+					"EndDate": "PRESENT",
+					"contractType": "Professional_Contract"
+				}]
+			}, {
+				"skills": ["Machine Learning", "Data science", "Big Data", "Python"]
+			}]
+
+		},
+		{
+			"firstname": "Martin",
+			"lastname": "Bucher",
+			"birthdate": "12-12-1991",
+			"regionOfOrigin": {"name":"Hauts-de-France","latitude": 49.847503,"longitude": 2.763062},
+			"institutionOfOrigin": "SUPINFO_LILLE",
+			"mobility": ["LILLE", "TOULOUSE"],
+			"attendance": ["Tech Conference", "Forums", "Meetings"],
+			"graduated": false,
+			"studies": "PENDING",
+			"credits": 210,
+			"curriculum": [{
+				"experiences": [{
+					"business": "Apple",
+					"position": "Full-Stack Developer",
+					"startDate": "04-07-2019",
+					"EndDate": "05-09-2019",
+					"contractType": "Internship"
+				}, {
+					"business": "Google",
+					"position": "Cloud Developer",
+					"startDate": "05-01-2019",
+					"EndDate": "04-03-2019",
+					"contractType": "Internship"
+				}]
+			}, {
+				"skills": ["Angular", "HTML", "JS", "Spring", "Java", "GCP"]
+			}]
+		},
+		{
+			"firstname": "Marine",
+			"lastname": "Gascon",
+			"birthdate": "17-05-1988",
+			"regionOfOrigin": {"name":"Hauts-de-France","latitude": 49.847503,"longitude": 2.763062},
+			"institutionOfOrigin": "SUPINFO_LILLE",
+			"mobility": ["NICE", "LILLE", "LYON"],
+			"attendance": ["Meetings"],
+			"graduated": true,
+			"studies": "FINISHED",
+			"credits": 300,
+			"curriculum": [{
+				"experiences": [{
+					"business": "Societe General",
+					"position": "Mobile Developer",
+					"startDate": "12-05-2021",
+					"EndDate": "PRESENT",
+					"contractType": "Professional_Contract"
+				}]
+			}, {
+				"skills": ["React", "HTML", "CSS", "React native", "Flutter"]
+			}]
+
+		},
+		{
+			"firstname": "Mehdi",
+			"lastname": "Haraoui",
+			"birthdate": "31-03-1990",
+			"regionOfOrigin": {"name":"Île-de-France","latitude": 48.8499198,"longitude": 2.6370411},
+			"institutionOfOrigin": "SUPINFO_PARIS",
+			"mobility": ["PARIS", "CLERMONT-FERRAND", "MARSEILLE"],
+			"attendance": ["Student Fair", "Tech Conference", "Forums", "Meetings", "Bowling", "Gaming Tournament", "Chest Tournament"],
+			"graduated": false,
+			"studies": "FINISHED",
+			"credits": 230,
+			"curriculum": [ {
+					"business": "Axopen",
+					"position": "Mobile Developer",
+					"startDate": "21-07-2021",
+					"EndDate": "30-11-2021",
+					"contractType": "Internship"
+				}]
+			}, {
+				"skills": ["Ionis", "Angular", "Flutter", "Swift"]
+			}]
+
+		}
+	]
+}

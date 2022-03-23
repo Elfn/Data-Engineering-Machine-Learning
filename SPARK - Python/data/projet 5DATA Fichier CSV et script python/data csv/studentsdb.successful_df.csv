@@ -1,0 +1,4 @@
+﻿"_id","nom","prenom","ects","diplome","type_contrat","duree_contrat","etude","campus","activite","entreprise","universite"
+"ObjectId(""61db45a5c81e1457f090d08c"")","Nap","Satford",320,"VRAI","Stage",4,"termine","CAEN","SPR","AFRIK-SOLUTION","POLYTECH"
+"ObjectId(""61db45a5c81e1457f090d08d"")","Cleveland","Matis",300,"VRAI","Contrat d'apprentissage",3,"stope","PARIS","BDE","CAPGEMINI","POLYTECH"
+"ObjectId(""61db45a5c81e1457f090d08e"")","Carmine","Spellard",300,"VRAI","Contrat Pro",2,"stope","LILLE","BDS","MICHELIN","42"
